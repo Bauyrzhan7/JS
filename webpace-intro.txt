@@ -1,0 +1,15 @@
+1. install webpack
+2. create src folder
+3. add gitignore
+4. config file
+5. dev server static
+6. modules, babel (babelrc, babel config)
+7. commands serve, start, watch
+8. setup environments
+9. css (css-loader, mini-css-extract-plugin)
+10. hot reload
+11. sass sass-loader
+12. postcss postcss-preset-env postcss-loader (config.js)
+13. .browserslistrc
+
+14. html-webpack-plugin, clean-webpack-plugin
